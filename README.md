@@ -10,10 +10,16 @@
 
 <p align="center">
 
-- **Languages**:
+- **Frameworks**:
 
 ![React.JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<br>
 
+- **Languages**:
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 </p>
 <!--
 **gnunez0101/gnunez0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
