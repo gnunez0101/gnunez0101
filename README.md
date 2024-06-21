@@ -21,6 +21,8 @@
 🔭 Working on UI for security applications
 🌱 I'm learning Next.JS, Sass, Testing, Flutter and React Native
 🌟 Main languages: JavaScript, C#
+🚀 Main Technologies: React JS, HTML, Javascript, CSS, Framer Motion
+🛠 Main Tools: VS Code, Git
 🚩 Interested in Application development and UI design
 <!-- 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a> -->
 </pre>
